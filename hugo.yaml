@@ -1,3 +1,10 @@
 caches:
   images:
     dir: :cacheDir/images
+
+theme: terminal
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
