@@ -6,8 +6,7 @@ draft: false
 
 # <h1 style="font-size:32px" align="center">Enter My Web</h1>
 
-{{ $image := .Page.Resources.GetMatch "2.jpg" }}
-<center><img src="{{ $image.RelPermalink }}" alt="Avatar" style="border-radius: 50%;"></img></center>
+<center><img src="2.jpg" alt="Avatar" style="border-radius: 50%;"></img></center>
 
 Simple, straightforward documentation of information I have gathered along my
 travels through cyberspace.
