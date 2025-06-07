@@ -1,6 +1,6 @@
 ---
 title: "Enter The Web"
-date: 2025-05-31T19:08:48-05:00
+date: 2025-05-31
 draft: false
 ---
 
@@ -10,3 +10,6 @@ draft: false
 
 Simple, straightforward documentation of information I have gathered along my
 travels through cyberspace.
+
+
+{{< profile >}}
