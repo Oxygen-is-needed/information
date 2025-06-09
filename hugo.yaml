@@ -8,3 +8,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+baseUrl: "https://oxygen-is-needed.github.io/information"
+canonifyURLs: true
