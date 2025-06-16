@@ -6,10 +6,13 @@ draft: false
 
 # <h1 style="font-size:32px" align="center">Enter My Web</h1>
 
-<center><img src="2.jpg" alt="Avatar" style="border-radius: 50%;"></img></center>
+<a href="https://github.com/Oxygen-is-needed">
+    <center><img src="2.jpg" alt="Avatar" style="border-radius: 50%;"></img></center>
+</a>
 
-Simple, straightforward documentation of information I have gathered along my
-travels through cyberspace.
+Simple, straightforward documentation of information
+[I](https://github.com/Oxygen-is-needed) have gathered along my travels through
+cyberspace.
 
 
 {{< profile >}}
